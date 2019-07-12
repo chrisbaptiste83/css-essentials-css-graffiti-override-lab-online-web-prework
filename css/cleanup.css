@@ -10,6 +10,6 @@
 #wall div#tag-4{
   display: none;
 }
-div#wall div#tag-5{
+div#wall div.parent#tag-5{
   display: none;
 }
